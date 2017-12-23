@@ -10,7 +10,7 @@ Gym for predictive models
 .. image:: https://readthedocs.org/projects/modelgym/badge/?version=latest
   :target: http://modelgym.readthedocs.io/en/latest/?badge=latest
   :alt: Documentation Status
-  
+
 .. please change  make_modelgym_great_again -> master and fminkin -> yandexdataschool after merge
 .. image:: https://travis-ci.org/fminkin/modelgym.svg?branch=make_modelgym_great_again
   :target: https://travis-ci.org/fminkin/modelgym
@@ -38,4 +38,5 @@ More info
 -------------------
 * `Documentaion <http://modelgym.readthedocs.io/en/latest/index.html>`_
 * `Installaion <http://modelgym.readthedocs.io/en/latest/install.html>`_
+.. replace Example -> Basic tutorial and train_example -> basic_tutorial after merge
 * `Example <http://modelgym.readthedocs.io/en/latest/train_example.html>`_

@@ -6,7 +6,7 @@
    when m2r add end-line and start-line arguments to their mdinclude
 
 .. include:: ../../README.rst
-    :end-line: 26
+   :end-before: More info
 
 Installation
 ------------------
